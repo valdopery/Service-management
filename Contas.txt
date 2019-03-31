@@ -1,0 +1,5 @@
+aderito Mafundza;mafundza;Cor preferida?;azul
+Fausio Paco;paco;Cor preferida?;vermelho
+Ildovanda Alumene;alumene;Cor preferida?;amarelo
+Marcio Ngulube;ngulube;Cor preferida?;vermelho
+Valdo Tivane;tivane;Cor preferida?;preto

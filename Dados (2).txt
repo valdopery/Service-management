@@ -1,0 +1,31 @@
+Informatica;2500.0;Redes;AS-302;Mauro Vanderley Moises Paco;Av.Eduardo Mondlane n:32;825422584;I;101956012290I;T;2013;M;Licenciado;27
+Construcao;3500.0;Pedreiro;AS-306;Nadir Karimo;Av.da Maguiguana B.Alto Mae n:21;822423584;I;188052029756O;T;2014;M;Tecnico;34
+Informatica;2500.0;Montagem;AS-998;Alfredo de Albreu;Av.Eduardo Mondlane n:12;823009412;I;189996009756L;T;2001;M;Tecnico;19
+Domesticos;2000.0;Baba;VS-901;Julio Carvalhal;Av.24 de Julho n:12;825021584;I;100056789756H;C;Semanal
+Informatica;4000.0;Manutencao de Computador;VS-220;Heber Loldo;Av.do Jardim B.Jardim n:23;825222084;I;152156789746k;C;Mensal
+Eletricos/Hidricos;6500.0;Instalacao Eletrica;VS-101;Vanda Assalane;Av.da Maguiguana n:102;827082321;I;101156009756N;C;Semanal
+Domesticos;6000.0;Empregada Domestica;VS-900;Sergio Texeira;Av.Guerra Popular n:54 ;825465597;I;120026784759U;C;Semanal
+Construcao;5000.0;Pintor;FS-101;Fausio Heber Moises Paco;Av.Eduardo Mondlane n:32;829886705;F;Construcao;40
+Informatica;10000.0;Reparacao de Computador;FS-122;Ademar Texeira;Av.Filipe Samuel Magaia n:09;825529504;F;Informatico;70
+Domesticos;2100.0;Jardineiro;FS-711;Isabel Langa;Av.25 de Setembro n:01;823292860;F;Domestico;90
+Informatica;7000.0;Redes;FS-554;Anita Duda;Av.25 de Setembro R.Santa Cruz n:98;824456781;F;Informatico;90
+Informatica;7600.0;Montagem de Computador;FS-121;Morble Santana;Av.Eduardo Mondlane n:22;825021333;F;Informatico;80
+Domesticos;2500.0;Baba;VS-944;Daniela Ferreira;Av.25 de Setembro n:004;822426584;I;194406789746M;C;Mensal
+Informatica;8900.0;Montagem de Computador;VS-501;Yara de Carvalho;Av.Eduardo Mondlane n:036;820420584;I;152156789746N;C;Diario
+Informatica;5500.0;Redes;VS-111;Sheila Moises Paco;Av.da Resistencia n:102;824262082;I;102146779746k;C;Diario
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Eletricos/Hidricos;7000.0;Canalizacao;FS-254;Julia Carvalho;Av.Guerra Popular n:98;820455781;F;Eletrico;40
+Informatica;7000.0;Instalacao de Software;FS-152;Anita Deisy;Av.Julius Nyerere n:18;829887703;F;Informatico;80
+Construcao;6000.0;Pintor;VS-401;Luis Carvil;Av.Eduardo Mondlane n:132;822778884;I;152144887776H;C;Diario
+Informatica;8900.0;Montagem de Computador;VS-621;Erika Belo;Av.Ho Chi Min n:036;840420584;I;100459729746N;C;Mensal
+Informatica;3500.0;Redes;AS-696;Jorge Macamo;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;F;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;David Zachino;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;F;Tecnico;28
+Domesticos;3500.0;Baba;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2001;M;Tecnico;28
+Eletricos/Hidricos;3500.0;Canalizacao;AS-696;Abrao Sebastiao;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2001;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construcao;3500.0;Pedreiro;AS-696;Moises Paco;Av.25 de Setembro n:21;822001456;I;111052049752P;T;2009;M;Tecnico;28
+Construção;0.0;Pedreiro;AS-123;2344asdas;asdasdasdas;822222222;I;888888828858A;T;1996;M;;19
